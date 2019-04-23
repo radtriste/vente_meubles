@@ -2,7 +2,7 @@ image: docker:latest
 
 variables:
   REGISTRY: registry.gitlab.com
-  DOCKER_IMAGE: registry.gitlab.com/radtriste/vente-meuble
+  DOCKER_IMAGE: registry.gitlab.com/radtriste/vente-meuble/website
   DIST_FOLDER: dist
 
 stages:
