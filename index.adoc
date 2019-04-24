@@ -22,7 +22,7 @@ image:images/lave_linge.jpg[Profile,300,200,caption=""]
 ****
 *IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/90214134/us-en/lugnvik-sofa-bed-with-chaise-lounge-granan-black/Entry/[Referenz]* +
 *Sofa: 223 x 83 (max 136) cm / Bed: 120 x 200 cm* +
-*Kaufpreis: 250 euros (Anfang 2016)*
+*Kaufpreis: 250 euros (09/2015)*
 
 image:images/canape_angle.jpg[Profile,300,200,caption=""]
 ****
