@@ -45,7 +45,7 @@ Guter Zustand aber kann manchmal bisschen laut sein.
 image:images/cave.jpg[Profile,300,200,caption=""]
 ****
 
-=== TV-Möbel (weiss) (40 euros)
+=== TV-Moebel (weiss) (40 euros)
 ****
 *IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s89903034/ca-fr/borgsjo-meuble-tele-avec-tiroirs-blanc/Entry/[Referenz]* +
 *150 x 42 x 51 cm*
@@ -53,7 +53,7 @@ image:images/cave.jpg[Profile,300,200,caption=""]
 image:images/meuble_tv.jpg[Profile,300,200,caption=""]
 ****
 
-=== Regal mit glastür (40 euros)
+=== Regal mit glastuer (40 euros)
 ****
 *IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s29903032/fr-fr/borgsjo-etagere-avec-panneau-portes-vitrees-blanc/Entry/[Referenz]* +
 *181 x 75 x 42 cm*
@@ -61,13 +61,14 @@ image:images/meuble_tv.jpg[Profile,300,200,caption=""]
 image:images/armoire_vitrine.jpg[Profile,300,200,caption=""]
 ****
 
-=== Waschbekenunterschrank (30 euros)
+=== Bad Waschbekenunterschrank (30 euros)
 ****
 *Moemax* +
 *60 x 55 x 31 cm* +
 *Kaufpreis: 79,90 eur (04/2017)* +
 
-Photos are coming ...
+image:images/unterschrank_1.jpg[Profile,300,200,caption=""]
+image:images/unterschrank_2.jpg[Profile,300,200,caption=""]
 ****
 
 === Nespresso Maschine (30 euros)
@@ -78,13 +79,15 @@ Guter Zustand
 image:images/nespresso.jpg[Profile,300,200,caption=""]
 ****
 
-=== Hoch schrank (20 euros)
+=== Bad Hochschrank (20 euros)
 ****
 *Moemax, link:https://moemax.a.bigcontent.io/v1/static/PIGGuqa_64F-K42i_GEecNog/1803-wojcik.pdf[Referenz]* +
 *40 x 164 x 33 cm* +
 *Kaupreis: 60 eur (06/2017)*
 
-Photos are coming ...
+image:images/hochschrank_1.jpg[Profile,300,200,caption=""]
+image:images/hochschrank_2.jpg[Profile,300,200,caption=""]
+//image:images/hochschrank_3.jpg[Profile,300,200,caption=""]
 ****
 
 === Regale, schwarz (5 euros)
@@ -95,11 +98,12 @@ Photos are coming ...
 image:images/etageres_noires.jpg[Profile,300,200,caption=""]
 ****
 
-=== Badmöbel (5 euros)
+=== Badmoebel (5 euros)
 ****
 *Weiss, Viel Jahren* +
-??? Dimensions +
-??? Photos
+Information is coming ...
+//??? Dimensions +
+//??? Photos
 ****
 
 === Kleine kleiderschrank (zu geben)
