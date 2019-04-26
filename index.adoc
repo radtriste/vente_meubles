@@ -33,7 +33,8 @@ image:images/canape_angle.jpg[Profile,300,200,caption=""]
 *Referenz: FAHRRAD 26"/28" TREKKINGRAD ORIGINAL 500 ALU SILBERGRAU HELLGRAU L* +
 *Kaufpreis: 250 euros (03/2015)*
 
-Photos are coming ...
+image:images/velo_1.jpg[Profile,300,200,caption=""]
+image:images/velo_2.jpg[Profile,300,200,caption=""]
 ****
 
 === Weinkeller (60 euros)
