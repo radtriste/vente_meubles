@@ -1,13 +1,15 @@
+== Moebel zu verkaufen (Verfuegbar ab Anfang Juni)
+
 :toc:
 
-=== Kleiderschrank mit Tuerdaempfer (400 euros)
-****
-*Moemax, link:https://www.moemax.de/p/modern-living-schiebetuerenschrank-in-eichefarben-002522014303[Referenz]* +
-*270 x 225 x 61 cm* +
-*Orignal Preis: 560 eur (06/2017)*
-
-image:images/armoire.jpg[Profile,300,200,caption=""]
-****
+//=== Kleiderschrank mit Tuerdaempfer (400 euros)
+//****
+//*Moemax, link:https://www.moemax.de/p/modern-living-schiebetuerenschrank-in-eichefarben-002522014303[Referenz]* +
+//*270 x 225 x 61 cm* +
+//*Orignal Preis: 560 eur (06/2017)*
+//
+//image:images/armoire.jpg[Profile,300,200,caption=""]
+//****
 
 === Waschmaschine 5kg (200 euros)
 ****
@@ -80,24 +82,24 @@ Guter Zustand
 image:images/nespresso.jpg[Profile,300,200,caption=""]
 ****
 
-=== Bad Hochschrank (30 euros)
-****
-*Moemax, link:https://moemax.a.bigcontent.io/v1/static/PIGGuqa_64F-K42i_GEecNog/1803-wojcik.pdf[Referenz]* +
-*40 x 164 x 33 cm* +
-*Kaupreis: 60 eur (06/2017)*
-
-image:images/hochschrank_1.jpg[Profile,300,200,caption=""]
-image:images/hochschrank_2.jpg[Profile,300,200,caption=""]
+//=== Bad Hochschrank (30 euros)
+//****
+//*Moemax, link:https://moemax.a.bigcontent.io/v1/static/PIGGuqa_64F-K42i_GEecNog/1803-wojcik.pdf[Referenz]* +
+//*40 x 164 x 33 cm* +
+//*Kaupreis: 60 eur (06/2017)*
+//
+//image:images/hochschrank_1.jpg[Profile,300,200,caption=""]
+//image:images/hochschrank_2.jpg[Profile,300,200,caption=""]
 //image:images/hochschrank_3.jpg[Profile,300,200,caption=""]
-****
+//****
 
-=== Regale, schwarz (5 euros)
-****
-*IKEA, link:https://www.ikea.com/de/de/p/billy-buecherregal-schwarzbraun-40263848/[Referenz]* +
-*80 x 28 x 202 cm*
-
-image:images/etageres_noires.jpg[Profile,300,200,caption=""]
-****
+//=== Regale, schwarz (5 euros)
+//****
+//*IKEA, link:https://www.ikea.com/de/de/p/billy-buecherregal-schwarzbraun-40263848/[Referenz]* +
+//*80 x 28 x 202 cm*
+//
+//image:images/etageres_noires.jpg[Profile,300,200,caption=""]
+//****
 
 === Badmoebel (5 euros)
 ****
