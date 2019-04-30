@@ -18,6 +18,7 @@
 *Kaufpreis: 275 euros (04/2017)*
 
 image:images/lave_linge.jpg[Profile,300,200,caption=""]
+image:images/lave_linge_1.jpg[Profile,300,200,caption=""]
 ****
 
 === Ecksofa bett (100 euros)
@@ -46,6 +47,8 @@ image:images/velo_2.jpg[Profile,300,200,caption=""]
 Guter Zustand aber kann manchmal bisschen laut sein.
 
 image:images/cave.jpg[Profile,300,200,caption=""]
+image:images/cave_1.jpg[Profile,300,200,caption=""]
+image:images/cave_2.jpg[Profile,300,200,caption=""]
 ****
 
 === Regal mit glastuer (50 euros)
@@ -54,6 +57,7 @@ image:images/cave.jpg[Profile,300,200,caption=""]
 *181 x 75 x 42 cm*
 
 image:images/armoire_vitrine.jpg[Profile,300,200,caption=""]
+image:images/armoire_vitrine_1.jpg[Profile,300,200,caption=""]
 ****
 
 === TV-Moebel (weiss) (40 euros)
@@ -62,6 +66,8 @@ image:images/armoire_vitrine.jpg[Profile,300,200,caption=""]
 *150 x 42 x 51 cm*
 
 image:images/meuble_tv.jpg[Profile,300,200,caption=""]
+image:images/meuble_tv_1.jpg[Profile,300,200,caption=""]
+image:images/meuble_tv_2.jpg[Profile,300,200,caption=""]
 ****
 
 === Bad Waschbekenunterschrank (40 euros)
@@ -106,7 +112,9 @@ image:images/nespresso.jpg[Profile,300,200,caption=""]
 *Weiss, Viel Jahren* +
 Information is coming ...
 //??? Dimensions +
-//??? Photos
+
+image:images/meuble_blanc.jpg[Profile,300,200,caption=""]
+image:images/meuble_blanc_1.jpg[Profile,300,200,caption=""]
 ****
 
 === Kleine kleiderschrank (zu geben)
@@ -117,4 +125,6 @@ Information is coming ...
 Mittlerer Zustand
 
 image:images/armoire_ikea.jpg[Profile,300,200,caption=""]
+image:images/armoire_1.jpg[Profile,300,200,caption=""]
+image:images/armoire_2.jpg[Profile,300,200,caption=""]
 ****
