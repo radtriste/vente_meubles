@@ -28,6 +28,9 @@ image:images/lave_linge_1.jpg[Profile,300,200,caption=""]
 *Kaufpreis: 250 euros (09/2015)*
 
 image:images/canape_angle.jpg[Profile,300,200,caption=""]
+image:images/canape1.jpg[Profile,300,200,caption=""] +
+image:images/canape2.jpg[Profile,300,200,caption=""]
+image:images/canape3.jpg[Profile,300,200,caption=""]
 ****
 
 //=== Fahrrad 26"/28" Trekkingrad Alu Grau (80 euros)
