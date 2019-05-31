@@ -11,7 +11,7 @@
 //image:images/armoire.jpg[Profile,300,200,caption=""]
 //****
 
-=== Waschmaschine 5kg (200 euros)
+=== Waschmaschine 5kg (170 euros)
 ****
 *Beko, link:https://www.amazon.de/gp/product/B018KDB8WC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1[Referenz]* +
 *41,5 x 60 x 84 cm* +
@@ -21,7 +21,7 @@ image:images/lave_linge.jpg[Profile,300,200,caption=""]
 image:images/lave_linge_1.jpg[Profile,300,200,caption=""]
 ****
 
-=== Ecksofa bett (100 euros)
+=== Ecksofa bett (85 euros)
 ****
 *IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/90214134/us-en/lugnvik-sofa-bed-with-chaise-lounge-granan-black/Entry/[Referenz]* +
 *Sofa: 223 x 83 (max 136) cm / Bed: 120 x 200 cm* +
@@ -54,7 +54,7 @@ image:images/canape3.jpg[Profile,300,200,caption=""]
 //image:images/cave_2.jpg[Profile,300,200,caption=""]
 //****
 
-=== Regal mit glastuer (50 euros)
+=== Regal mit glastuer (40 euros)
 ****
 *IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s29903032/fr-fr/borgsjo-etagere-avec-panneau-portes-vitrees-blanc/Entry/[Referenz]* +
 *181 x 75 x 42 cm*
@@ -73,7 +73,7 @@ image:images/armoire_vitrine_1.jpg[Profile,300,200,caption=""]
 #image:images/meuble_tv_2.jpg[Profile,300,200,caption=""]
 #****
 
-=== Bad Waschbekenunterschrank (40 euros)
+=== Bad Waschbekenunterschrank (30 euros)
 ****
 *Moemax* +
 *60 x 55 x 31 cm* +
@@ -83,7 +83,7 @@ image:images/unterschrank_1.jpg[Profile,300,200,caption=""]
 image:images/unterschrank_2.jpg[Profile,300,200,caption=""]
 ****
 
-=== Nespresso Maschine (30 euros)
+=== Nespresso Maschine (10 euros)
 ****
 *Krups Cityz, ca 10 Jahre, link:https://www.amazon.fr/Krups-Nespresso-XN7002-xn7002-Nespresso-Citiz/dp/B003XN7HXY[Referenz]* +
 Guter Zustand
@@ -110,7 +110,7 @@ image:images/nespresso.jpg[Profile,300,200,caption=""]
 //image:images/etageres_noires.jpg[Profile,300,200,caption=""]
 //****
 
-=== Badmoebel (5 euros)
+=== Badmoebel (zu verschenken)
 ****
 *Weiss, Viel Jahren* +
 58 (T) x 45 x 86.5 (H) cm
