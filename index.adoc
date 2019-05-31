@@ -63,15 +63,15 @@ image:images/armoire_vitrine.jpg[Profile,300,200,caption=""]
 image:images/armoire_vitrine_1.jpg[Profile,300,200,caption=""]
 ****
 
-=== TV-Moebel (weiss) (40 euros)
-****
-*IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s89903034/ca-fr/borgsjo-meuble-tele-avec-tiroirs-blanc/Entry/[Referenz]* +
-*150 x 42 x 51 cm*
-
-image:images/meuble_tv.jpg[Profile,300,200,caption=""]
-image:images/meuble_tv_1.jpg[Profile,300,200,caption=""]
-image:images/meuble_tv_2.jpg[Profile,300,200,caption=""]
-****
+#=== TV-Moebel (weiss) (40 euros)
+#****
+#*IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s89903034/ca-fr/borgsjo-meuble-tele-avec-tiroirs-blanc/Entry/[Referenz]* +
+#*150 x 42 x 51 cm*
+#
+#image:images/meuble_tv.jpg[Profile,300,200,caption=""]
+#image:images/meuble_tv_1.jpg[Profile,300,200,caption=""]
+#image:images/meuble_tv_2.jpg[Profile,300,200,caption=""]
+#****
 
 === Bad Waschbekenunterschrank (40 euros)
 ****
@@ -113,21 +113,20 @@ image:images/nespresso.jpg[Profile,300,200,caption=""]
 === Badmoebel (5 euros)
 ****
 *Weiss, Viel Jahren* +
-Information is coming ...
-//??? Dimensions +
+58 (T) x 45 x 86.5 (H) cm
 
 image:images/meuble_blanc.jpg[Profile,300,200,caption=""]
 image:images/meuble_blanc_1.jpg[Profile,300,200,caption=""]
 ****
 
-=== Kleine kleiderschrank (zu geben)
-****
-*IKEA, 6 Jahre* +
-*link:https://www.ikea.com/de/de/p/dombas-kleiderschrank-weiss-50270136/[Referenz]* +
-*140 x 181 x 51 cm* +
-Mittlerer Zustand
-
-image:images/armoire_ikea.jpg[Profile,300,200,caption=""]
-image:images/armoire_1.jpg[Profile,300,200,caption=""]
-image:images/armoire_2.jpg[Profile,300,200,caption=""]
-****
+#=== Kleine kleiderschrank (zu geben)
+#****
+#*IKEA, 6 Jahre* +
+#*link:https://www.ikea.com/de/de/p/dombas-kleiderschrank-weiss-50270136/[Referenz]* +
+#*140 x 181 x 51 cm* +
+#Mittlerer Zustand
+#
+#image:images/armoire_ikea.jpg[Profile,300,200,caption=""]
+#image:images/armoire_1.jpg[Profile,300,200,caption=""]
+#image:images/armoire_2.jpg[Profile,300,200,caption=""]
+#****
