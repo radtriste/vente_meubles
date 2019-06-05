@@ -119,14 +119,14 @@ image:images/meuble_blanc.jpg[Profile,300,200,caption=""]
 image:images/meuble_blanc_1.jpg[Profile,300,200,caption=""]
 ****
 
-#=== Kleine kleiderschrank (zu geben)
-#****
-#*IKEA, 6 Jahre* +
-#*link:https://www.ikea.com/de/de/p/dombas-kleiderschrank-weiss-50270136/[Referenz]* +
-#*140 x 181 x 51 cm* +
-#Mittlerer Zustand
-#
-#image:images/armoire_ikea.jpg[Profile,300,200,caption=""]
-#image:images/armoire_1.jpg[Profile,300,200,caption=""]
-#image:images/armoire_2.jpg[Profile,300,200,caption=""]
-#****
+//=== Kleine kleiderschrank (zu geben)
+//****
+//*IKEA, 6 Jahre* +
+//*link:https://www.ikea.com/de/de/p/dombas-kleiderschrank-weiss-50270136/[Referenz]* +
+//*140 x 181 x 51 cm* +
+//Mittlerer Zustand
+//
+//image:images/armoire_ikea.jpg[Profile,300,200,caption=""]
+//image:images/armoire_1.jpg[Profile,300,200,caption=""]
+//image:images/armoire_2.jpg[Profile,300,200,caption=""]
+//****
