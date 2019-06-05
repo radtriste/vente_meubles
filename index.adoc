@@ -11,15 +11,15 @@
 //image:images/armoire.jpg[Profile,300,200,caption=""]
 //****
 
-=== Waschmaschine 5kg (170 euros)
-****
-*Beko, link:https://www.amazon.de/gp/product/B018KDB8WC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1[Referenz]* +
-*41,5 x 60 x 84 cm* +
-*Kaufpreis: 275 euros (04/2017)*
-
-image:images/lave_linge.jpg[Profile,300,200,caption=""]
-image:images/lave_linge_1.jpg[Profile,300,200,caption=""]
-****
+//=== Waschmaschine 5kg (170 euros)
+//****
+//*Beko, link:https://www.amazon.de/gp/product/B018KDB8WC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1[Referenz]* +
+//*41,5 x 60 x 84 cm* +
+//*Kaufpreis: 275 euros (04/2017)*
+//
+//image:images/lave_linge.jpg[Profile,300,200,caption=""]
+//image:images/lave_linge_1.jpg[Profile,300,200,caption=""]
+//****
 
 === Ecksofa bett (85 euros)
 ****
@@ -54,26 +54,26 @@ image:images/canape3.jpg[Profile,300,200,caption=""]
 //image:images/cave_2.jpg[Profile,300,200,caption=""]
 //****
 
-=== Regal mit glastuer (40 euros)
+//=== Regal mit glastuer (40 euros)
+//****
+//*IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s29903032/fr-fr/borgsjo-etagere-avec-panneau-portes-vitrees-blanc/Entry/[Referenz]* +
+//*181 x 75 x 42 cm*
+//
+//image:images/armoire_vitrine.jpg[Profile,300,200,caption=""]
+//image:images/armoire_vitrine_1.jpg[Profile,300,200,caption=""]
+//****
+
+=== TV-Moebel (weiss) (30 euros)
 ****
-*IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s29903032/fr-fr/borgsjo-etagere-avec-panneau-portes-vitrees-blanc/Entry/[Referenz]* +
-*181 x 75 x 42 cm*
+*IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s89903034/ca-fr/borgsjo-meuble-tele-avec-tiroirs-blanc/Entry/[Referenz]* +
+*150 x 42 x 51 cm*
 
-image:images/armoire_vitrine.jpg[Profile,300,200,caption=""]
-image:images/armoire_vitrine_1.jpg[Profile,300,200,caption=""]
+image:images/meuble_tv.jpg[Profile,300,200,caption=""]
+image:images/meuble_tv_1.jpg[Profile,300,200,caption=""]
+image:images/meuble_tv_2.jpg[Profile,300,200,caption=""]
 ****
 
-#=== TV-Moebel (weiss) (40 euros)
-#****
-#*IKEA, link:https://www.ikeaddict.com/ikeapedia/en/Product/s89903034/ca-fr/borgsjo-meuble-tele-avec-tiroirs-blanc/Entry/[Referenz]* +
-#*150 x 42 x 51 cm*
-#
-#image:images/meuble_tv.jpg[Profile,300,200,caption=""]
-#image:images/meuble_tv_1.jpg[Profile,300,200,caption=""]
-#image:images/meuble_tv_2.jpg[Profile,300,200,caption=""]
-#****
-
-=== Bad Waschbekenunterschrank (30 euros)
+=== Bad Waschbekenunterschrank (25 euros)
 ****
 *Moemax* +
 *60 x 55 x 31 cm* +
@@ -83,7 +83,7 @@ image:images/unterschrank_1.jpg[Profile,300,200,caption=""]
 image:images/unterschrank_2.jpg[Profile,300,200,caption=""]
 ****
 
-=== Nespresso Maschine (10 euros)
+=== Nespresso Maschine (5 euros)
 ****
 *Krups Cityz, ca 10 Jahre, link:https://www.amazon.fr/Krups-Nespresso-XN7002-xn7002-Nespresso-Citiz/dp/B003XN7HXY[Referenz]* +
 Guter Zustand
@@ -110,7 +110,7 @@ image:images/nespresso.jpg[Profile,300,200,caption=""]
 //image:images/etageres_noires.jpg[Profile,300,200,caption=""]
 //****
 
-=== Badmoebel (zu verschenken)
+=== Badmoebel (3 euros)
 ****
 *Weiss, Viel Jahren* +
 58 (T) x 45 x 86.5 (H) cm
