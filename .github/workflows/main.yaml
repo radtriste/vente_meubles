@@ -1,0 +1,26 @@
+name: Build & Push container
+
+on:
+  - push
+
+jobs:
+  container-builder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      
+      - name: Generate final document(s)
+        run: |
+          chmod u+x generate.sh
+          export GENERATION_COMMAND_PREFIX="docker run --rm -v $(pwd):/documents/ asciidoctor/docker-asciidoctor "
+          ./generate.sh
+
+      - name: Build and push container
+        uses: docker/build-push-action@v1
+        with:
+          registry: quay.io
+          username: ${{ secrets.QUAY_USERNAME }}
+          password: ${{ secrets.QUAY_PASSWORD }}
+          repository: radtriste/vente_meubles
+          tags: latest
